@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb4da2f9-07c1-4cd4-87d1-9fcbff884b30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/www/CalculatorX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/www/CalculatorX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/www/CalculatorX$Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/www/CalculatorX$Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/www/CalculatorX$Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/www/CalculatorX$Insert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/www/CalculatorX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/www/CalculatorX.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,10 +117,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="446" />
-    <option name="y" value="247" />
-    <option name="width" value="970" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="655" />
+    <option name="y" value="163" />
+    <option name="width" value="1178" />
     <option name="height" value="630" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -297,18 +292,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="198" width="776" height="504" extended-state="1" />
-    <editor active="true" />
+    <frame x="524" y="131" width="942" height="504" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.29748604" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2414966" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32867134" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.14184397" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="1.0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.10212766" />
