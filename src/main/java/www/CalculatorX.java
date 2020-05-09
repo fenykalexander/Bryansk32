@@ -17,7 +17,7 @@ class CalculatorX extends JPanel {
         go = true;//инициализация переменных
          setLayout(new BorderLayout());
         add(screen, BorderLayout.SOUTH);
-         add(panel, BorderLayout.CENTER);
+         add(panel, BorderLayout.NORTH);
 
         ActionListener insert = new Insert();//cоздаем классы вставки и исполнения команд
         ActionListener command = new Command();
